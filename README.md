@@ -5,7 +5,7 @@
 - [Description](#description)
 - [Disclaimer](#disclaimer)
 - [Limitations](#limitations)
-- [Lessons Learned and Recommendations](#lessions-learned-and-recommendations)
+- [Lessons Learned](#lessions-learned)
 
 ## Description
 For my first webdevelopment project I decided to create a simple resume mockup using HTML5.
@@ -18,6 +18,6 @@ All names and images portrayed on this website are fictitious or have been artif
 ## Limitations
 Using only HTML5 allows for little more than the creation of paragraphs of text and headlines. Inline styling is time consuming and error prone, thus it is more efficient to link to an external style sheet and assign classes to elements that need uniform modification.
 
-## Lessons Learned and Recommendations
+## Lessons Learned 
 HTML is essentially the creation and arrangement of boxes containing texts, linkes or images on a website. Those boxes can be modified or displaced by nesting them within other HTML elements or using CSS properties.
 Alternativly one can link to a cached version of Bootstrap's compiled CSS under the section [CDN via jsDeliver](https://getbootstrap.com/docs/5.2/getting-started/download/) and use that instead of a self made external stylesheet.
