@@ -2,10 +2,10 @@
 # Simple HTML5 Resume Mockup
 
 ## Table of Contents
-[Description](#description)
-[Disclaimer](#disclaimer)
-[Limitations](#limitations)
-[Lessons Learned and Recommendations](#lessions-learned-and-recommendations)
+- [Description](#description)
+- [Disclaimer](#disclaimer)
+- [Limitations](#limitations)
+- [Lessons Learned and Recommendations](#lessions-learned-and-recommendations)
 
 ## Description
 For my first webdevelopment project I decided to create a simple resume mockup using HTML5.
