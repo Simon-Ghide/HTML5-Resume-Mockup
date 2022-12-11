@@ -1,4 +1,4 @@
-![banner](images/header_preview.png)
+![banner](Images/header_preview.png)
 
 ## Table of Contents
 - [Description](#description)
