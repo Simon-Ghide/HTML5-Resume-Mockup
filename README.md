@@ -7,7 +7,7 @@
 - [Lessons Learned](#lessions-learned)
 
 ## Description
-For my first webdevelopment project I decided to create a simple resume mockup using HTML5.
+For my first webdevelopment project I decided to create a simple [resume mockup](https://simon-ghide.github.io/HTML5-Resume-Mockup/) using HTML5.
 Doing this allowed me to learn about essential HTML tags such as divs and tables, inline styling, using the inspect feature in browsers and to get familiar with online documentation such as [DevDocs API documentation](https://devdocs.io/) and [MDN web docs](https://developer.mozilla.org/en-US/docs/Web/HTML).
 The code was written in Visual Studio Code and inspected in Google Chrome.
 
