@@ -1,5 +1,4 @@
 ![banner](Images/header_preview.png)
-# Simple HTML5 Resume Mockup
 
 ## Table of Contents
 - [Description](#description)
